@@ -207,9 +207,6 @@ nav{
     flex-direction: column;
     text-align: center;
 }
-nav a:hover{
-    background-color: grey;
-}
 /*img_section*/
 #img_section{
     height: auto;
